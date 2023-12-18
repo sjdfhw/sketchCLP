@@ -1,0 +1,2 @@
+# sketchCLP
+Our data set comes from treasure house, Shaanxi History Museum and Digital Art Painting Database. The collected ancient paintings are further sorted by professional artists according to style, dynasty and color. At the same time, through a series of pre-processing operations such as clipping, sharpening, formatting and so on, the data set is filtered and sorted. Compared with other methods, the most important is to design the extraction method of line drawing, which is more in line with the traditional landscape painting artistic conception.
